@@ -1,4 +1,4 @@
-# Technical Writing Sample-1
+# Technical Writing Sample
 
 ## Core SDK for Java 8+
 
