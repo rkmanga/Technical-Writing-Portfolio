@@ -132,13 +132,6 @@ public class Main {
 }
 ```
 
-## Full examples
-
-Some more complete examples can be found here:
-  * Example for a simple web app: [Web File Browser example](examples/web-file-browser/src/main/java/com/Product-X/core/examples/web_file_browser/Product-XAuth.java)
-  * Example for an Android app: [Android example](examples/android/src/main/java/com/Product-X/core/examples/android/UserActivity.java)
-  * Example for a command-line tool: [Command-Line Authorization example](examples/authorize/src/main/java/com/Product-X/core/examples/authorize/Main.java)
-
 To try out running this examples, please follow the instructions below.
 
 ### Save your Product-X API key
