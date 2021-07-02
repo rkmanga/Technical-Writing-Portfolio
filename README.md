@@ -1,12 +1,10 @@
-# Augmented Classification of text with Watson Natural Language Understanding and Watson Studio
-
-*Read this in other languages: [한국어](README-ko.md).*
+# Classification of text with Watson Natural Language Understanding (NLU), and Watson Studio
 
 > Data Science Experience is now Watson Studio. Although some images in this code pattern may show the service as Data Science Experience, the steps and processes will still work.
 
-In this code pattern we will use Jupyter notebooks in Watson Studio to augment IBM Watson Natural Language Understanding API output through configurable mechanism for text classification.
+This code example uses Jupyter notebooks in Watson Studio to augment IBM Watson Natural Language Understanding API output via configuration of text classification.
 
-When the reader has completed this code pattern, they will understand how to:
+After completing these steps, you should be able to:
 
 * Create and run a Jupyter notebook in Watson Studio.
 * Use Object Storage to access data and configuration files.
@@ -31,11 +29,6 @@ The intended audience for this code pattern is developers who want to learn a me
 ## Featured technologies
 
 * [Jupyter Notebooks](https://jupyter.org/): An open-source web application that allows you to create and share documents that contain live code, equations, visualizations and explanatory text.
-
-
-# Watch the Video
-
-[![](https://img.youtube.com/vi/kp8dcM9AKrA/0.jpg)](https://www.youtube.com/watch?v=kp8dcM9AKrA)
 
 # Steps
 
@@ -185,22 +178,6 @@ We can add more stages to the configuration json if required and enhance the tex
 
 It can be seen from the classification results that the keywords and regular expressions specified in the configuration have been correctly classified
 in the analyzed text that is displayed.
-
-# Other scenarios and usecases for which a solution can be built using the above methodology
-
-[See USECASES.md.](USECASES.md)
-
-# Related links
-
-[Mine insights from software development artifacts](https://developer.ibm.com/patterns/mine-insights-from-software-development-artifacts/)
-
-[Get insights on personal finance data](https://developer.ibm.com/code/2018/01/04/power-personal-finance-monitoring-management-engineering-insights-code-pattern/)
-
-[Fingerprinting personal data from unstructured text](https://developer.ibm.com/patterns/fingerprinting-personal-data-from-unstructured-text/)
-
-# Troubleshooting
-
-[See DEBUGGING.md.](DEBUGGING.md)
 
 # License
 
