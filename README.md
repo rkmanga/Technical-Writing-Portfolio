@@ -1,4 +1,4 @@
-# Technical Writing Sample
+# Technical Writing Sample - SDK Installation Guide
 
 ## Core SDK for Java 8+
 
