@@ -1,4 +1,4 @@
-# Tech Writing Portfolio
+# Technical Writing Portfolio
 
 This repo hosts example technical writing documents that can be used to create:
 
