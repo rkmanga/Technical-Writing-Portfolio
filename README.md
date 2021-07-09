@@ -1,6 +1,6 @@
 # Technical Writing Portfolio
 
-This repo hosts example technical writing documents that can be used to create:
+This repo hosts my example technical writing documents that can be used to create:
 
 * SDKs.
 * Developer Implementation Guides.
