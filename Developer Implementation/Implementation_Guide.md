@@ -1,6 +1,6 @@
 # Classification of text with Watson Natural Language Understanding (NLU), and Watson Studio
 
-This code example uses Jupyter notebooks in Watson Studio to augment IBM Watson Natural Language Understanding API output via configuration of text classification.
+This code example uses Jupyter notebooks in Watson Studio to augment output of the IBM Watson Natural Language Understanding (NLU) API, via configuration upgrades for text classification.
 
 After completing these steps, you should be able to:
 
