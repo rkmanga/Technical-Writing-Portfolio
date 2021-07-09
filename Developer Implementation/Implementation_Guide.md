@@ -1,7 +1,5 @@
 # Classification of text with Watson Natural Language Understanding (NLU), and Watson Studio
 
-> Data Science Experience is now Watson Studio. Although some images in this code pattern may show the service as Data Science Experience, the steps and processes will still work.
-
 This code example uses Jupyter notebooks in Watson Studio to augment IBM Watson Natural Language Understanding API output via configuration of text classification.
 
 After completing these steps, you should be able to:
