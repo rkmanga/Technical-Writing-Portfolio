@@ -1,7 +1,3 @@
----
-tableOfContents: true
----
-
 # Notification Service
 
 The notification service provides a mechanism to allow sending messages sent from server or client to another client.
