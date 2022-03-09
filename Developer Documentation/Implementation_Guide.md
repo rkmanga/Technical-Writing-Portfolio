@@ -14,7 +14,7 @@ After completing these steps, you should be able to:
 
 The intended audience for this code pattern is developers who want to learn a method for augmenting classification metadata obtained from Watson Natural Language Understanding API, in situations when there is a scarcity of historical data. The traditional approach of training a Text Analytics model yields less than expected results. The distinguishing factor of this code pattern is that it allows a configurable mechanism of text classification. It helps give a developer a head start in the case of text from a specialized domain, with no generally available English parser.
 
-![](doc/source/images/architecture.png)
+![](/images/architecture.png)
 
 ## Included components
 
@@ -54,7 +54,7 @@ Create the following IBM Cloud service and name it wdc-NLU-service:
 
   * [**Watson Natural Language Understanding**](https://cloud.ibm.com/catalog/services/natural-language-understanding)
 
-  ![](doc/source/images/bluemix_service_nlu.png)
+  ![](/images/bluemix_service_nlu.png)
 
 ## 3. Create the notebook
 
@@ -68,7 +68,7 @@ Create the following IBM Cloud service and name it wdc-NLU-service:
 * Select the free Anaconda runtime.
 * Click the `Create` button.
 
-![](doc/source/images/create_notebook_from_url.png)
+![](/create_notebook_from_url.png)
 
 ## 4. Add the data and configuration file
 
@@ -79,7 +79,7 @@ and its `Files` tab.
 * Click `browse` and navigate to this repo `watson-document-classifier/data/sample_text.txt`
 * Click `browse` and navigate to this repo `watson-document-classifier/configuration/sample_config.txt`
 
-![](doc/source/images/add_file.png)
+![](/images/add_file.png)
 
 > Note:  It is possible to use your own data and configuration files.
 If you use a configuration file from your computer, make sure to conform to the JSON structure given in `configuration/sample_config.txt`.
@@ -92,7 +92,7 @@ In the notebook, update the global variables in the cell following `2.3 Global V
 
 Replace the `sampleTextFileName` with the name of your data file and `sampleConfigFileName` with your configuration file name.
 
-![](doc/source/images/update_variables.png)
+![](/images/update_variables.png)
 
 ## 5. Update the notebook with service credentials
 
@@ -103,15 +103,15 @@ Open the Watson Natural Language Understanding service in your [IBM Cloud Dashbo
 
 Once the service is open click the `Service Credentials` menu on the left.
 
-![](doc/source/images/service_credentials.png)
+![](/images/service_credentials.png)
 
 In the `Service Credentials` that opens up in the UI, select whichever `Credentials` you would like to use in the notebook from the `KEY NAME` column. Click `View credentials` and copy `username` and `password` key values that appear on the UI in JSON format.
 
-![](doc/source/images/copy_credentials.png)
+![](/images/copy_credentials.png)
 
 Update the `username` and `password` key values in the cell below `2.1 Add your service credentials from IBM Cloud for the Watson services` section.
 
-![](doc/source/images/watson_nlu_credentials.png)
+![](/images/watson_nlu_credentials.png)
 
 #### Add the Object Storage credentials to the notebook
 * Select the cell below `2.2 Add your service credentials for Object Storage` section in the notebook to update the credentials for Object Store.
@@ -121,7 +121,7 @@ Update the `username` and `password` key values in the cell below `2.1 Add your 
 * Click `Insert Crendentials` from drop down menu.
 * Make sure the credentials are saved as `credentials_1`.
 
-![](doc/source/images/objectstorage_credentials.png)
+![](/images/objectstorage_credentials.png)
 
 ## 6. Run the notebook
 
@@ -160,7 +160,7 @@ There are several ways to execute the code cells in your notebook:
 * Select `sample_text_classification.txt` file using select box to the left of the file listing
 * Click the `SelectAction` button and use the `Download File` drop down menu to download `sample_text_classification.txt` file.
 
-![](doc/source/images/objectstore_download_file.png)
+![](/images/objectstore_download_file.png)
 
 
 ## 8. Analyze the results
@@ -169,7 +169,7 @@ After running each cell of the notebook under `Classify text`, the results will 
 
 The configuration json controls the way the text is classified. The classification process is divided into stages - Base Tagging and Domain Tagging. The Base Tagging stage can be used to specify keywords based classification, regular expression based classification, and tagging based on chunking expressions. The Domain Tagging stage can be used to specify classification that is specific to the domain, in order to augment the results from Watson Natural Language Understanding.
 
-![](doc/source/images/text_classify_config.png)
+![](/images/text_classify_config.png)
 
 We can modify the configuration json to add more keywords or add regular expressions. In this way, we can augment the text classification without any changes to the code.
 We can add more stages to the configuration json if required and enhance the text classification results with code modifications.
