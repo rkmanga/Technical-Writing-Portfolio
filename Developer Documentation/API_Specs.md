@@ -14,7 +14,7 @@ The Notification service defines three interfaces:
 
 ### Components
 The following components diagram outlines the actors for the Notification service.
-![](/images/plantuml8155743692218351961.png)
+![](/technical-writing/images/plantuml8155743692218351961.png)
 
 ### SDK Documentation
 The BGS SDK package comes with a PDF of auto-generated API documentation. Each time you download the package, you'll find a current version of the PDF in the ```\doc``` folder.
@@ -47,7 +47,7 @@ SendNotification API is designed for client to deliver a notification to other c
 
 It doesn't need to subscribe in order to receive the messages. Notification delivery is not guaranteed. The sender does not receive any feedback as to weather of not the message was actually delivered. Notifications are not persistent. If the target client is not currently connected, delivery of the notification will fail.
 
-![](/images/plantuml3642796119711329604.png)
+![](/technical-writing/images/plantuml3642796119711329604.png)
 
 ## Client V2 Protocol
 
