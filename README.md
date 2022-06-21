@@ -3,7 +3,7 @@
 - 👋 Hi, I’m RK
 - 👀 I’m interested in almost everything about writing and software!
 - 🌱 I’m currently learning advanced Javascript
-- 💞️ I’m looking to collaborate on open sourec project documentation
+- 💞️ I’m looking to collaborate on open source project documentation
 - 📫 How to reach me: via GitHub
 
 
