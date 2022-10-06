@@ -15,4 +15,4 @@ This GitHub repo hosts some of my sample technical writing documents that have b
 
 * onboard developers and third-party development teams onto a developer platform. 
 * setup, consume, and interface with APIs
-* 
+
