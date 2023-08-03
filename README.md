@@ -14,6 +14,8 @@ Check-out some of my work on:
 
 - [API Documentation](https://github.com/rkmanga/Technical-Writing-Portfolio/blob/main/01.%20API%20Documentation/README.md)
 - [How-to Guide](https://github.com/rkmanga/Technical-Writing-Portfolio/blob/main/02.%20How-to%20Guide/README.md)
+- [Implementation Guide](https://github.com/rkmanga/Technical-Writing-Portfolio/blob/main/03.%20Implementation%20Guide/README.md)
+- [SDK Documentation](https://github.com/rkmanga/Technical-Writing-Portfolio/tree/main/04.%20SDK%20Documentation)
 
 More about me
 
