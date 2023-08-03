@@ -10,6 +10,7 @@ This repo showcases a variety of technical content I have authored over the past
 - Developing information architecture strategies.
 - Leading documentation projects.
 
+</br>
 Check-out some of my work on:
 
 - [API Documentation](https://github.com/rkmanga/Technical-Writing-Portfolio/blob/main/01.%20API%20Documentation/README.md)
@@ -17,6 +18,7 @@ Check-out some of my work on:
 - [Implementation Guide](https://github.com/rkmanga/Technical-Writing-Portfolio/blob/main/03.%20Implementation%20Guide/README.md)
 - [SDK Documentation](https://github.com/rkmanga/Technical-Writing-Portfolio/tree/main/04.%20SDK%20Documentation)
 
+</br>
 More about me
 
 📚 I’m currently learning about strategic API documentation planning</br>
