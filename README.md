@@ -19,6 +19,6 @@ Check-out some of my work on:
 
 More about me
 
-- I’m currently learning about strategic API documentation planning📚
-- I’m looking to collaborate on open source project documentation 👥
-- Reach me via [LinkedIn](http://linkedin.com/in/rkman) 📫
+📚 I’m currently learning about strategic API documentation planning</br>
+👥 I’m looking to collaborate on open source project documentation</br>
+📫 Reach me via [LinkedIn](http://linkedin.com/in/rkman)
