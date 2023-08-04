@@ -4,7 +4,7 @@
 
 Thanks for checking-out my technical writing portfolio.
 
-This repo showcases a variety of technical content I have authored over the past 8 years and (hopefully) highlights skills in:
+Showcased here is a variety of technical content I have authored over the past 8 years and (hopefully) highlights skills in:
 
 - Scoping and creating technical content.
 - Developing information architecture strategies.
